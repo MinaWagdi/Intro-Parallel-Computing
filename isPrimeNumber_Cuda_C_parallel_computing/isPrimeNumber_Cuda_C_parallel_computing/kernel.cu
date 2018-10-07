@@ -110,9 +110,9 @@ int main()
 {
 	/*NOTE : TO TRY A DIFFERENT VALUE, CHANGE IT IN THE "number" VARIABLE AND IN THE ARRAY "isPrime" */
 	bool prime = true;
-    int number = 23;
+    int number = 511;
 	int size = number / 2;
-	int isPrime[23 / 2];
+	int isPrime[511 / 2];
 	
 	printf("Starting parallel computing\n Checking Number : %d\n", number);
     
